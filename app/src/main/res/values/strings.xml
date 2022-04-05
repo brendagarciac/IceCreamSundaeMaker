@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ice Cream Sundae Maker</string>
+    <string name="the_works">The Works!</string>
+    <string name="reset">Reset</string>
+    <string name="order">Order</string>
+    <string name="ice_cream_sundae_maker">Ice Cream Sundae Maker</string>
+    <string name="peanuts">Peanuts</string>
+    <string name="textview">TextView</string>
+    <string name="m_ms"><![CDATA[M&Ms]]></string>
+    <string name="marshmallows">Marshmallows</string>
+    <string name="almonds">Almonds</string>
+    <string name="oreos">Oreos</string>
+    <string name="brownies">Brownies</string>
+    <string name="gummy_bears">Gummy Bears</string>
+    <string name="strawberries">Strawberries</string>
+    <string name="hot_fudge">Hot Fudge</string>
+    <string name="_1_oz">1 oz</string>
+    <string name="_3_14">$3.14</string>
+    <string name="ice_cream">Ice Cream :</string>
+    <string name="size">Size :</string>
+    <string name="order_history">Order History</string>
+    <string name="about">About</string>
+    <string name="about_me">ABOUT ME</string>
+    <string name="made_by_brenda_garcia">Made by: Brenda Garcia</string>
+    <string name="ice_cream_sundae_maker_right">© Ice Cream Sundae Maker 2022</string>
+</resources>
